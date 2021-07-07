@@ -1,3 +1,3 @@
 # Build OpenWrt using GitHub Actions
 
-From P3TERX/Actions-OpenWrt
+From https://github.com/P3TERX/Actions-OpenWrt
